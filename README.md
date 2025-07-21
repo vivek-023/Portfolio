@@ -34,6 +34,12 @@ I'm **Vivek Ranjan**, currently pursuing B.Tech in Computer Science & Engineerin
 ---
 
 ## 📁 Project Structure
+📁 portfolio/
+├── 📄 index.html
+├── 🎨 style.css
+├── 🧠 script.js
+├── 📄 README.md
+└── 📁 assets/images (if used)
 
 ---
 
